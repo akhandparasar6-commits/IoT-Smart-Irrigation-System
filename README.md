@@ -59,3 +59,4 @@ To design an automated irrigation system that reduces water wastage and enables 
 Akhand Parasar  
 Electronics Engineering Student  
 Interested in IoT and Embedded Systems
+
