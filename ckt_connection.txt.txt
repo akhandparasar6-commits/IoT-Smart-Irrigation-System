@@ -1,0 +1,15 @@
+NodeMCU Connections:
+
+Soil Moisture Sensor:
+VCC  -> 3.3V
+GND  -> GND
+AO   -> A0
+
+Relay Module:
+VCC  -> 5V
+GND  -> GND
+IN   -> D1
+
+Water Pump:
+Connected to Relay Normally Open (NO) and COM terminals.
+Use external power supply for pump.
